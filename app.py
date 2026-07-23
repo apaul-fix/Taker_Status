@@ -1,9 +1,9 @@
-import os
-import sys
-import requests
-import tkinter as tk
-from tkinter import ttk, messagebox
-from datetime import datetime
+import os #this is to get icons Remember later pls
+import sys #this too i guess
+import requests #resinstalled was missing
+import tkinter as tk #Ez UI
+from tkinter import ttk, messagebox #widgets for UI tkinter thingy idk
+from datetime import datetime #time thing for later
 
 def resource_path(relative_path):
     """Get absolute path to resource, works for development and PyInstaller"""
